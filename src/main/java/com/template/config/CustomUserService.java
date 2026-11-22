@@ -15,6 +15,7 @@ import com.template.dao.UserRepository;
 import com.template.model.CustomUserDetails;
 import com.template.model.UserEntity;
 
+
 @Component
 public class CustomUserService implements UserDetailsService {
 	
